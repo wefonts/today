@@ -1,5 +1,5 @@
 # today
-잘풀리는하루체
+잘풀리는오늘체
 
 <pre>
 @font-face {
