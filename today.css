@@ -1,0 +1,14 @@
+@font-face {
+    font-family: "today";
+    font-weight: normal;
+    font-style: normal;
+    src: url("https://cdn.jsdelivr.net/gh/websfont/today/today.eot");
+    src: url("https://cdn.jsdelivr.net/gh/websfont/today/today.eot?#iefix") format("embedded-opentype"),
+         url("https://cdn.jsdelivr.net/gh/websfont/today/today.woff2") format("woff2"),
+         url("https://cdn.jsdelivr.net/gh/websfont/today/today.woff") format("woff"),
+         url("https://cdn.jsdelivr.net/gh/websfont/today/today.ttf") format("truetype");
+    font-display: swap;
+} 
+.today {
+    font-family: "today";
+}
